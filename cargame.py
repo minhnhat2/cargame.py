@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 import random
-
+ 
 #tham số hình dạng
 size = width, height = (800, 800)
 road_w = int(width/1.6)
